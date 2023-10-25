@@ -305,16 +305,8 @@ file = "config/realisticbees.json5"
 hash = "e9b541ed4bb6dbfd47ed5a4ff222e574d40d9fa9344a4b2b9ee0c5112fd37f1b"
 
 [[files]]
-file = "config/repurposed_structures.json"
-hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
-
-[[files]]
 file = "config/resourceful-config-web.json"
 hash = "9b0273830d15c7f2274bac27971270fc880bd77bebd8500c5a13aabe66141fb2"
-
-[[files]]
-file = "config/respawningshulkers.json5"
-hash = "0319f8905e49b64f536a72369dda73e2c858b7d062543133cb45367b3ffc110f"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -459,14 +451,6 @@ hash = "f47e44c5f8355a378b3c6759e4e261d64be6d880eebab5f5a8b0b3ff4bac2b7b"
 [[files]]
 file = "config/traverse/biome.json"
 hash = "e54af6ff51f52bffcbacd1a0df7b882ec54e54ada65077ae4a0e6b31aa805d4e"
-
-[[files]]
-file = "config/villagernames.json5"
-hash = "3177d2e745007800c60ee0629dd024cd10ee8803c35222edcde743ede9afac20"
-
-[[files]]
-file = "config/villagernames/customnames.txt"
-hash = "a7bd31539cc29b1a87bbcfc7eaee2ac0b3f4bc916b7f656a7128432ad719dc9e"
 
 [[files]]
 file = "config/villagersplus.json5"
