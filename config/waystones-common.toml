@@ -1,8 +1,5 @@
 [client]
 
-# If enabled, activated waystones will not emit particles.
-disableParticles = false
-
 # If enabled, the text overlay on waystones will no longer always render at full brightness.
 disableTextGlow = false
 
@@ -151,5 +148,5 @@ warpStoneXpCostMultiplier = 0.0
 waystoneXpCostMultiplier = 1.0
 
 # How much xp is needed per leashed animal to travel with you
-xpCostPerLeashed = 1.0
+xpCostPerLeashed = 0
 
