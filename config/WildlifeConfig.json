@@ -3,52 +3,99 @@
     "configVersion": 5,
     "printBiomes": false,
     "globalDebug": false,
-    "mobCap": 40,
+    "mobCap": 8,
     "mobCapRange": 192
   },
   "biomeGroups": {
     "deserts": [
       "mesa",
       "savanna",
-      "desert"
+      "desert",
+      "terrestria:canyon",
+      "terrestria:dunes",
+      "terrestria:oasis",
+      "terrestria:lush_desert",
+      "terrestria:outback",
+      "traverse:desert_shrubland",
+      "wilderwild:arid_forest",
+      "wilderwild:arid_savanna",
+      "wilderwild:oasis"
     ],
     "jungles": [
-      "jungles"
+      "jungles",
+      "terrestria:hemlock_rainforest",
+      "wilderwild:birch_jungle",
+      "wilderwild:rainforest"
     ],
     "temperate": [
       "plains",
       "forest",
-      "mushroom"
+      "mushroom",
+      "terrestria:cypress_forest",
+      "traverse:flatlands",
+      "wilderwild:dark_birch_forest",
+      "wilderwild:flower_field",
+      "wilderwild:temperate_rainforest"
     ],
     "shores": [
       "beach",
       "minecraft:stony_shore",
-      "minecraft:beach"
+      "minecraft:beach",
+      "wilderwild:warm_beach"
     ],
     "swamps": [
-      "swamp"
+      "swamp",
+      "terrestria:cypress_swamp",
+      "traverse:lush_swamp",
+      "wilderwild:cypress_wetlands"
     ],
     "cold": [
       "mountain",
       "taiga",
-      "extreme_hills"
+      "extreme_hills",
+      "terrestria:windswept_redwood_forest",
+      "traverse:snowy_coniferous_forest"
     ],
     "snowy": [
       "mountain",
-      "icy"
+      "icy",
+      "terrestria:snowy_hemlock_forest",
+      "terrestria:snowy_hemlock_treeline",
+      "wilderwild:snowy_old_growth_pine_taiga"
     ],
     "mountains": [
       "mountain",
-      "extreme_hills"
+      "extreme_hills",
+      "terrestria:windswept_redwood_forest",
+      "terrestria:caldera",
+      "terrestria:volcanic_island"
     ],
     "forests": [
       "forest",
       "mushroom",
-      "taiga"
+      "taiga",
+      "terrestria:cypress_forest",
+      "terrestria:dense_woodlands",
+      "terrestria:hemlock_rainforest",
+      "terrestria:japanese_maple_forest",
+      "terrestria:rainbow_rainforest",
+      "terrestria:snowy_hemlock_treeline",
+      "traverse:autumnal_woods",
+      "traverse:coniferous_forest",
+      "wilderwild:dark_birch_forest",
+      "wilderwild:flower_field",
+      "wilderwild:mixed_forest",
+      "wilderwild:rainforest",
+      "wilderwild:temperate_rainforest"
     ],
     "warmForests": [
       "forest",
-      "mushroom"
+      "mushroom",
+      "terrestria:japanese_maple_forest",
+      "terrestria:rainbow_rainforest",
+      "wilderwild:dark_birch_forest",
+      "wilderwild:rainforest",
+      "wilderwild:temperate_rainforest"
     ],
     "oldForests": [
       "Old Growth Pine Taiga",
@@ -56,7 +103,14 @@
       "Giant Tree Taiga Hills",
       "Giant Spruce Taiga Hills",
       "Giant Tree Taiga",
-      "Giant Spruce Taiga"
+      "Giant Spruce Taiga",
+      "terrestria:lush_redwood_forest",
+      "traverse:woodlands",
+      "wilderwild:birch_taiga",
+      "wilderwild:dark_taiga",
+      "wilderwild:old_growth_birch_taiga",
+      "wilderwild:old_growth_dark_forest",
+      "wilderwild:snowy_old_growth_pine_taiga"
     ],
     "freshWater": [
       "minecraft:river",
@@ -129,13 +183,36 @@
       "flowering_azalea_leaves",
       "lily_pad",
       "small_dripleaf",
-      "big_dripleaf"
+      "big_dripleaf",
+      "terrestria:cypress_leaves",
+      "terrestria:hemlock_leaves",
+      "terrestria:dark_japanese_maple_leaves",
+      "terrestria:japanese_maple_leaves",
+      "terrestria:jungle_palm_leaves",
+      "terrestria:rainbow_eucalyptus_leaves",
+      "terrestria:rubber_leaves",
+      "terrestria:redwood_leaves",
+      "terrestria:sakura_leaves",
+      "minecraft:cherry_leaves",
+      "terrestria:willow_leaves",
+      "terrestria:yucca_palm_leaves",
+      "traverse:brown_autumnal_leaves",
+      "traverse:fir_leaves",
+      "traverse:orange_autumnal_leaves",
+      "traverse:red_autumnal_leaves",
+      "traverse:yellow_autumnal_leaves",
+      "wilderwild:baobab_leaves",
+      "wilderwild:cypress_leaves",
+      "wilderwild:flowering_lily_pad",
+      "cobblemon:apricorn_leaves"
     ],
     "mushroomItems": [
       "brown_mushroom",
       "red_mushroom",
       "crimson_fungus",
-      "warped_fungus"
+      "warped_fungus",
+      "wilderwild:brown_shelf_fungus",
+      "wilderwild:red_shelf_fungus"
     ],
     "rootItems": [
       "cave_vines",

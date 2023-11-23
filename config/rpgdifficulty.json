@@ -44,7 +44,7 @@
   "dynamicBossModification": true,
   "dynamicBossModificator": 0.3,
   "bossMaxFactor": 3.0,
-  "bossDistanceFactor": 0.0,
+  "bossDistanceFactor": 0.01,
   "bossTimeFactor": 0.1,
   "creeperExplosionFactor": 1.0
 }

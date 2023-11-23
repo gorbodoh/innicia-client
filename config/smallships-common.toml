@@ -56,7 +56,7 @@ schematicVersion = 2
 			shipAttributeBriggMaxSpeed = 35.0
 			shipAttributeBriggMaxReverseSpeed = 0.1
 			shipAttributeBriggRotationAcceleration = 0.55
-			shipAttributeBriggMaxHealth = 450.0
+			shipAttributeBriggMaxHealth = 900.0
 			shipAttributeBriggAcceleration = 0.015
 			shipAttributeBriggMaxRotationSpeed = 4.0
 
@@ -76,7 +76,7 @@ schematicVersion = 2
 		[Ship.Galley.Attributes]
 			shipAttributeGalleyAcceleration = 0.015
 			shipAttributeGalleyMaxSpeed = 30.0
-			shipAttributeGalleyMaxHealth = 200.0
+			shipAttributeGalleyMaxHealth = 500.0
 			shipAttributeGalleyMaxReverseSpeed = 0.1
 			shipAttributeGalleyMaxRotationSpeed = 5.0
 			shipAttributeGalleyRotationAcceleration = 1.0

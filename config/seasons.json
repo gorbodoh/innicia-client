@@ -24,6 +24,6 @@
   "isSeasonMessingBonemeal": false,
   "doCropsGrowsNormallyUnderground": false,
   "doAnimalsBreedInWinter": true,
-  "notifyCompat": true,
+  "notifyCompat": false,
   "debugCommandEnabled": false
 }
