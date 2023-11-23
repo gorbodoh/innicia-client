@@ -26,7 +26,7 @@ hash = "0a660911955007a9e57f795997dd5825b680fe89b503c2a721c4a12a6756d848"
 
 [[files]]
 file = "config/WildlifeConfig.json"
-hash = "a8bb99e754fddd057fa98f6ff3561b3691e062509e8bede9ab06659bea88e591"
+hash = "d85f6180b8f5545ba5c6bb020439738f3689c326c05abe5a29e31223b7d7c4d1"
 
 [[files]]
 file = "config/adventurez.json5"
@@ -246,7 +246,7 @@ hash = "daecf2f4b4f0f6682cfabf68dcb963535f7f4284c671141dd7c7115b0c609ba7"
 
 [[files]]
 file = "config/easyanvils-server.toml"
-hash = "ac8977b3c900a0a44019d15a8bdaa62fab0f046db4291629beb2e862bb98c86e"
+hash = "1e1c6dcc276ce0c83cd747cef4310c2c7b20c6b669fe0558051298ca65807b2c"
 
 [[files]]
 file = "config/easymagic-client.toml"
@@ -266,7 +266,7 @@ hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
 
 [[files]]
 file = "config/endermanoverhaul-client.jsonc"
-hash = "5d9315a8ce308b193ca880f5a782879c0f117861b08ccb38baed6d049e29b26a"
+hash = "346c7094dc8d32c26ea9318cd1c63b12efb774483304dbfe35d2b4cfc6d7acdc"
 
 [[files]]
 file = "config/endermanoverhaul.jsonc"
@@ -338,7 +338,7 @@ hash = "9619bc3adbdb7f620e715802f9416ea2cd91ee0a2a47d2aaaa01c077daf6eeda"
 
 [[files]]
 file = "config/frostiful.json"
-hash = "872fbd75c304f93951e089ac8e9d3408db99bf95934c4fd6721129930899a5ea"
+hash = "68ea0c4b0f2e28df5da157f2396fc888889a2b7864e54d20b8035c7525b471f2"
 
 [[files]]
 file = "config/frozenlib.json5"
@@ -570,11 +570,11 @@ hash = "0c50179427611e46a9ccd0557b059afc6e95d3d3adec84dd107f417c1de5335c"
 
 [[files]]
 file = "config/rpgdifficulty.json"
-hash = "35145298a53a58135e529d7c6cf9ca0d9c4f3d4928fc5d7acb88102f9918191d"
+hash = "72e009983fd1eba8dcb01036578ed916ec61843795c3d4b9ab2f374e2cefa51c"
 
 [[files]]
 file = "config/seasons.json"
-hash = "dd8ad8223a4698829f69e4e88bcbd7a8f15c9061ea3a0842d5aa9cdcdfd0f66c"
+hash = "81b3257d3ed8dc2d6fb36776be1f29a2cfc1897353ac1e5a3980fe24dfd18fcc"
 
 [[files]]
 file = "config/simplehats.json"
@@ -630,7 +630,7 @@ hash = "6239bef4c1aea23b447c4ac277a82fd1fb7fccddf272c83d349e1ed9e0715810"
 
 [[files]]
 file = "config/smallships-common.toml"
-hash = "76777810a8e27d9a7ca727808545e10188ce0fe203abd6d9fa5be8aa14c46123"
+hash = "4f8a050dde1c23d29ad5a50fd2ac3664827e2dfe3f5d859f81e7b3bb99955a1e"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -714,7 +714,7 @@ hash = "000c6820773d714bdcec5b2cbc4d23d372a35f0e7b35459804c02950201da340"
 
 [[files]]
 file = "config/travelersbackpack.json5"
-hash = "a0d9079e4db2bd90edff1990ffb21442466eca0a820ae6fad8bf5f6009b023c8"
+hash = "ac89334a7e42e9adae5b08e1840531fd889ce8517aa52c3a83b9861d79e6c30f"
 
 [[files]]
 file = "config/traverse/biome.json"
@@ -738,7 +738,7 @@ hash = "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c"
 
 [[files]]
 file = "config/visualworkbench-client.toml"
-hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
+hash = "fc66e105d9cf16199fa5dc80a0d4a577b8dc96c6e20f982d621ec10681d888ff"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -762,7 +762,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "4888c30e0edf31e84697e4fd9e5112929f3f4cded4d15858093a397cce11de36"
+hash = "f36a119e6414ba02a6a22704e14851d6dd7433164a0871f3963dade2eede6683"
 
 [[files]]
 file = "config/waystones-common.toml.bak1"
