@@ -494,5 +494,6 @@
   "imprinter/enchantment.combatroll.multi_roll": true,
   "imprinter/enchantment.frostiful.enervation": true,
   "imprinter/enchantment.frostiful.ice_breaker": true,
-  "imprinter/enchantment.frostiful.frozen_touch_curse": true
+  "imprinter/enchantment.frostiful.frozen_touch_curse": true,
+  "imprinter/enchantment.betterend.end_veil": true
 }

@@ -53,6 +53,30 @@ file = "config/balm-common.toml"
 hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "5053a37b81d3eb5cf541ac379feb40cd6ec9f2ae7d64a78ef4f1ef3babe730fc"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
 file = "config/betteranimationscollection-client.toml"
 hash = "5fa4d1bb2a2c8d9dcc3ea6943f0b6daa46b27fa0c1d76dfc49aa1f3b51c73969"
 
@@ -71,6 +95,58 @@ hash = "3569bdfa5257b3aa1677174e87b01445a4a29d85e55a25fadef9830ec50d4ab3"
 [[files]]
 file = "config/bettercombat/server.json5"
 hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "5fb18af78d9d096929c49224dab452715b319de8dd433a274c54adb25ea7f005"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "c45824a64d43e717b319da610bece2a062863eddd3c7a12ea0369287e89d3d82"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "d5753557e4c0c3a46e0db647cde26306bf469833d8617ecd9142b165988050ea"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "787e6999e46c43c90f3ff5f13fb3d061e78949304d7c490ce6053056b2f2e1e0"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "7076964a9202ba94539432d9a608e3d97c82c501b10b1b1a4cc8e9981bd1f7e8"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
 
 [[files]]
 file = "config/bettertridents-common.toml"
@@ -122,7 +198,7 @@ hash = "8cc574f8b72b67bc98d0091e6437af0fa1d018c560579134d723fe1b4c22e422"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "9147dba45f5d888a145fbdc3e22712c35d6dcb65fb687da04a354c3a2392c13e"
+hash = "15976175f3b58c6eb5d98f1beb424fb6d2d0e58c8be762e3f10c2ccdba92f88a"
 
 [[files]]
 file = "config/collective.json5"
@@ -230,7 +306,7 @@ hash = "977f03455b4517949daa1848af0daff283e359ad4ec14487e8e49dfe16519a16"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "6d7ef490aee4a1c5beb12cfc6553ef7292c8bd9585f0c2d3fec551a977d5c7a0"
+hash = "f8a2e761bdbc07c432b76bd138b518f74cd70be0470659746da69cfe715bee32"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -246,7 +322,7 @@ hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
 file = "config/fightorflight.json5"
-hash = "5e2531012721e102f79d0712fa8e3c44a03f621aa8adee10298766addab72c49"
+hash = "66adc82ea7c857cc3d7aa6498ba9c7c514f8955446c3b1ad660ecd49900bf419"
 
 [[files]]
 file = "config/fishofthieves.json"
@@ -278,7 +354,7 @@ hash = "1424dad179d6802be3255a1b60849cc9d3c4006d30144977060d678b5bf60262"
 
 [[files]]
 file = "config/graveyard/the-graveyard-2.6-config.json5"
-hash = "abf2e24527ba91e09a537b1812d4785bda52a90d8de57eff28c55488b6485f91"
+hash = "7974a9b71db6885cf1233f95af9f17541b3cf72b089e726987e16addf0c45a29"
 
 [[files]]
 file = "config/guardvillagers.json"
@@ -310,7 +386,7 @@ hash = "c2ca42b99db6c233860a7c4f67a92741ab425a9da14035c491ba6b4faebbcb30"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "8c1a2bfabe07bd28885ea91ea99fd173f9e7da4b32355019c3bf6800ee89913a"
+hash = "203905032c2c99ae98ed2de7867342e92c575cfd2a035c50533e9c0623b3cc41"
 
 [[files]]
 file = "config/invmove.json"
@@ -350,7 +426,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "2c23fc9e779516b9687364237a307061b8cee935f023fc4fb38b5f313c19324a"
+hash = "d3e95c1375f3f3e819646c04cb64d13f3a791f65405d1859f5e4787969352aa2"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -434,7 +510,7 @@ hash = "f8fe1b99ac56325c0acfdc73468bf51754d923334cb0d540c7209866b0ba9542"
 
 [[files]]
 file = "config/paladins/items_v3.json"
-hash = "f498394e7c1551286d41b5e92bf84b7a8bd4a56fc9c0e860253b3bbb2480b140"
+hash = "39ff0bd9baaf527b7453b7f53a55ef59647dfacd726c305fa7c8824df6b5bc14"
 
 [[files]]
 file = "config/paladins/loot.json"
@@ -486,11 +562,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "b19bb77aa0f5213a213c4db3768211228753c93cc87312479611dd852a9e8611"
+hash = "9db0655e46d51b9174b121300b0f83190aaff7cf77361f55f381462c22839481"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "58da6dff55c1dcaad336f40e35cda264c2e83663212980488fa9f8524571b4c8"
+hash = "0c50179427611e46a9ccd0557b059afc6e95d3d3adec84dd107f417c1de5335c"
 
 [[files]]
 file = "config/rpgdifficulty.json"
@@ -730,7 +806,7 @@ hash = "3a98d0432651eb5d8409c3afef87eff80fbd1131e5435414b2743543e53de4a3"
 
 [[files]]
 file = "config/wizards/items_v3.json"
-hash = "e45218c204af73c3633f3126fcfe424b2b946a6d347b19cea2b46680a3726ec7"
+hash = "c4d503832f1249f22384dc9ab320489f4218658396b647b6e07d23a47c1f621e"
 
 [[files]]
 file = "config/wizards/loot.json"
@@ -766,7 +842,7 @@ hash = "0900e2beb2fda5476596be903f7995a66a4e9e1f9f5e426cc577f3ad87dfdd51"
 
 [[files]]
 file = "config/wunderreich/recipes.json"
-hash = "936a2dad5e59ea798899f7bc80c3afa5af04b9a257ab5004f2dd85334c74dbca"
+hash = "ba609058f8ace349463507a4f2290253b4d699b7199cee50dc82b215dbd8bee6"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -836,6 +912,11 @@ hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "82b70b3ca30f3eedea12049a414cf30baae722c79128b17789a93b6906dc3ca5"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "f2a3a436d5498e539230aa1936ac1009e4b140eda402b654b4a160431e7f517a"
 metafile = true
@@ -856,13 +937,18 @@ hash = "9e44e050783e06ab8135679dd4339e1bd96955423c35711bf09c485edeba77cd"
 metafile = true
 
 [[files]]
-file = "mods/better-end-sky.pw.toml"
-hash = "9d5eb5ff51dfc7123dfea318a027ec5fdf96ac9a29451367ce36cfcb88833679"
+file = "mods/better-tridents.pw.toml"
+hash = "1236eb9b45a46a30ba3ef50ff3d0ab298e08449dd232557c17194a98cea59639"
 metafile = true
 
 [[files]]
-file = "mods/better-tridents.pw.toml"
-hash = "1236eb9b45a46a30ba3ef50ff3d0ab298e08449dd232557c17194a98cea59639"
+file = "mods/betterend.pw.toml"
+hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
 metafile = true
 
 [[files]]
