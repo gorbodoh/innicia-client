@@ -1,13 +1,13 @@
 name = "Innicia-Client"
 author = "_gorbodoh_"
-version = "1.1.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1507d797427070be97bd74684b807fbd440e21c580b9809d87fd4933d17f5363"
+hash = "92d9d139c517fbc098abc259cf2672b79317be6d68c1d1ea5026cb67eb985476"
 
 [versions]
-fabric = "0.14.23"
+fabric = "0.14.24"
 minecraft = "1.20.1"

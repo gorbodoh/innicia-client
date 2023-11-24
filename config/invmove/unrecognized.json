@@ -1,0 +1,13 @@
+{
+  "allowMovement": {
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "net.minecraft.class_434": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+  },
+  "hideBackground": {
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+  }
+}
