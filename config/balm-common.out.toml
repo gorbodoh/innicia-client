@@ -69,7 +69,7 @@ generatedWaystonesUnbreakable = false
 globalWaystoneSetupRequiresCreativeMode = true
 
 # List of leashed mobs that cannot be taken with you when teleporting
-leashedDenyList = [ "minecraft:wither" ]
+leashedDenyList = [  ]
 
 # If enabled, only the owner of a waystone (the one who placed it) can rename it.
 restrictRenameToOwner = false
@@ -89,13 +89,13 @@ transportLeashedDimensional = true
 customWaystoneNames = [  ]
 
 # List of dimensions that waystones are allowed to spawn in through world gen. If left empty, all dimensions except those in worldGenDimensionDenyList are used.
-dimensionAllowList = [ "minecraft:overworld", "minecraft:the_nether", "minecraft:the_end" ]
+dimensionAllowList = [  ]
 
 # List of dimensions that waystones are not allowed to spawn in through world gen. Only used if worldGenDimensionAllowList is empty.
 dimensionDenyList = [  ]
 
 # Ensures that pretty much every village will have a waystone, by spawning it as early as possible. In addition, this means waystones will generally be located in the center of the village.
-forceSpawnInVillages = false
+forceSpawnInVillages = true
 
 # Approximate chunk distance between waystones generated freely in world generation. Set to 0 to disable generation.
 frequency = 25
@@ -115,7 +115,7 @@ worldGenStyle = "BIOME"
 blocksPerXpLevel = 1000
 
 # The base xp level cost when travelling between dimensions. Ignores block distance.
-dimensionalWarpXpCost = 20
+dimensionalWarpXpCost = 3
 
 # The multiplier applied to the base xp cost when teleporting to a global waystone through any method.
 globalWaystoneXpCostMultiplier = 0.0
@@ -130,7 +130,7 @@ inverseXpCost = false
 maximumBaseXpCost = 30.0
 
 # The minimum base xp cost (may be subceeded by multipliers defined below)
-minimumBaseXpCost = 10.0
+minimumBaseXpCost = 5.0
 
 # The multiplier applied to the base xp cost when teleporting from a portstone.
 portstoneXpCostMultiplier = 1.0

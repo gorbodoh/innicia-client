@@ -1,2 +1,5 @@
 *.mrpack
 config/waystones-common.toml.bak1
+*.bak1
+*.bak2
+*.bak3
