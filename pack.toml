@@ -1,12 +1,12 @@
 name = "Innicia-Client"
 author = "_gorbodoh_"
-version = "2.2.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3773ecf97f06aa765bc99c166d806a976554db5fa536aa22841988596d5866e4"
+hash = "e7723144677126012ecc469e5d35c79056c6448c56b6991332d1df29347decf7"
 
 [versions]
 fabric = "0.16.2"
