@@ -33,6 +33,10 @@ file = "config/MythicMountsConfig.json"
 hash = "0a660911955007a9e57f795997dd5825b680fe89b503c2a721c4a12a6756d848"
 
 [[files]]
+file = "config/WalkieTalkie.properties"
+hash = "3dbe746eff6575e1b4cebad6526920fe3c06c49920b62831eee8c05cc683408c"
+
+[[files]]
 file = "config/WildlifeConfig.json"
 hash = "d85f6180b8f5545ba5c6bb020439738f3689c326c05abe5a29e31223b7d7c4d1"
 
@@ -6802,6 +6806,11 @@ hash = "e80c868c48b13694aae15dd7378cfaea5597a5d12e8ea4e4a92b3977a45d047e"
 metafile = true
 
 [[files]]
+file = "mods/walkie-talkie.pw.toml"
+hash = "a7cbe484c11f6775e228bd069652bcf7680b9d2ac5c63c8bd82b08390db4b78c"
+metafile = true
+
+[[files]]
 file = "mods/way2wayfabric.pw.toml"
 hash = "22c02c241c720ef0e1ce59efb559a82ae47a5451409dda20bdf5f1e9c8dd0597"
 metafile = true
@@ -6848,4 +6857,4 @@ metafile = true
 
 [[files]]
 file = "patch.txt"
-hash = "5c8a05c2c75be7245aa6282c368b04b165d6b44b7fac394314f50b7acee52489"
+hash = "1a8b4a54d9be352f0ffc4385866d2a3390c72a4409f1c340c5448fe193482a92"
